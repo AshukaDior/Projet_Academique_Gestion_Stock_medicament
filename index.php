@@ -21,7 +21,7 @@
         <span> Easy <span class="text-green-light">PHARMAR</span></span>
       </div>
       <div class="wrapper">
-        <form action="login.verification.php" class="login-form" method="POST">
+        <form action="loginverification.php" class="login-form" method="POST">
           <div class="text-field">
             <i class="icon fa-solid fa-user"></i>
             <input
